@@ -1,1 +1,41 @@
-# Waston-D2L-Deep-Learning-From-Scratch-PyTorch-
+# Waston-D2L
+
+基于《动手学深度学习 Dive into deep learning》的学习整理
+原链接：https://zh.d2l.ai/index.html
+
+---
+## 项目目标
+- 系统性地从零开始掌握深度学习基础
+- 用 PyTorch 复现 D2L 中所有核心模型
+- 通过自己写代码理解每个模块背后的数学
+- 构建一个个人深度学习知识体系
+
+---
+## 章节概览（持续更新）
+| 章节     | 内容                           | 进度     |
+| ------ | ---------------------------- | ------ |
+| **3**  | 线性神经网络（线性回归 / Softmax）       | ✅ 已完成  |
+| **4**  | 多层感知机（MLP）                   | 🚧 进行中 |
+| **5**  | 优化算法（SGD、动量、Adam 等）          | ⏳ 待开始  |
+| **6**  | 卷积神经网络基础（CNN）                | ⏳ 待开始  |
+| **7**  | 现代 CNN（ResNet、VGG、Inception） | ⏳ 待开始  |
+| **8**  | RNN/LSTM/GRU                 | ⏳ 待开始  |
+| **9**  | 注意力机制                        | ⏳ 待开始  |
+| **10** | Transformer                  | ⏳ 待开始  |
+| **16** | 计算机视觉                        | ⏳ 待开始  |
+
+---
+## 环境配置
+- Python 3.9 / 3.10
+- PyTorch ≥ 1.12
+- matplotlib / numpy / torchvision
+- Jupyter Notebook
+
+---
+## 知识点总结（随学习更新）
+**第4章：线性回归和MLP（预测房价）**
+- 
+**第6章：卷积神经网络CNN**
+-
+
+
